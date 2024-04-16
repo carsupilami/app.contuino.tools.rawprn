@@ -1,10 +1,8 @@
-# rawprn a tool to send a raw textfile to a printer
+# rawprn - print raw text files to a windows printer
 
-This tool is used to send a raw textfile to a windwows printer, to mostly ignore the changes printer driver can do to manipulate the printed data. 
-
-A common usecase is to create a textfile in a defined language (e.g. ZPL or EPL) and send these files raw to the defined printer.
+This tool facilitates the direct transmission of raw text files to a Windows printer, primarily bypassing any modifications that printer drivers might impose on the printed data. It is commonly utilized to craft text files in specific printer languages, such as ZPL or EPL, and send these files unaltered to the designated printer.
 
 ## usage
 ...
-rawprn.exe --printer <windows printer name> --file <file name> --jobname <Spooljob Name>
+    rawprn.exe --printer "windows printer name" --file "file name" --jobname "Spooljob Name"
 ...

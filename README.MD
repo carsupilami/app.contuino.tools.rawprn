@@ -8,7 +8,7 @@ The tool requires no installation. It is a standalone executable file that can b
 
 ## System Requirements
 
-- 32 or 64-bit Windows operating systemA
+- 32 or 64-bit Windows operating system
 
 ## Usage
 
